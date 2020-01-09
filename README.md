@@ -30,7 +30,12 @@ dashboard.php --> User Dashboard containing details of logged-in user.
 	5. Confirm Password*
 	on clicking 'Submit' button, User can register.
 
-(3.) User Interface of 'User Dashboard' contains header, footer, and main dashboard, where User has details of own with profile picutre. Where user can add/update its own profile picture.
+(3.) User Interface of 'User Dashboard' contains header, footer, and main dashboard, where User has details of own with profile picutre. Where user can add/update its own profile picture || details are on dashboard-->
+
+	1. Profile Picture (add/update)
+	2. User Name
+	3. Email
+	4. Phone
 
 #Visual Studio(VS) Code is used as Source Code Editor to performed this specific task.
 #Technology used:- HTML, CSS, BOOTSTRAP basics, MySQL JAVASCRIPT basics, Ajax basics, PHP, XAMPP Control Panel (For Database)
