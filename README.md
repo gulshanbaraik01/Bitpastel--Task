@@ -8,11 +8,11 @@ This is a well defined full stack System solution of 'Bitpastel' used to store t
 
 This task contains set of pages follow as:-
 
-index.php --> Login page
+	index.php --> Login page
 
-signup.php --> Signup page
+	signup.php --> Signup page
 
-dashboard.php --> User Dashboard containing details of logged-in user.
+	dashboard.php --> User Dashboard containing details of logged-in user.
 
 
 (1.) User Interface of 'Bitpastel' that consists attractive design in which 'Login Page' screen has attributes to login -->
@@ -38,4 +38,7 @@ dashboard.php --> User Dashboard containing details of logged-in user.
 	4. Phone
 
 #Visual Studio(VS) Code is used as Source Code Editor to performed this specific task.
-#Technology used:- HTML, CSS, BOOTSTRAP basics, MySQL JAVASCRIPT basics, Ajax basics, PHP, XAMPP Control Panel (For Database)
+
+#Technology used:- 
+	
+	HTML, CSS, BOOTSTRAP basics, MySQL JAVASCRIPT basics, Ajax basics, PHP, XAMPP Control Panel (For Database)
